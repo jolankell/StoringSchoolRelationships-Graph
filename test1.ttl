@@ -1,0 +1,42 @@
+<https://faculty.washington.edu/lagesse/>
+	school:name "Brent Lagesse";
+	school:title "Associate Professor";
+	school:teaching <https://canvas.uw.edu/courses/1588618/>;
+	school:teaching <https://canvas.uw.edu/courses/1588620/>;
+
+<https://www.uwb.edu/students/alice>
+	school:name "Alice";
+	school:studenttype "Undergraduate";
+	school:enrolled <https://canvas.uw.edu/courses/1588618/>;
+	school:enrolled <https://canvas.uw.edu/courses/1588619/>;
+	
+<https://www.uwb.edu/css/faculty/bios/amashhadi>
+	school:name "Afra Mashhadi";
+	school:title "Associate Professor";
+	school:teaching <https://canvas.uw.edu/courses/1588619/>;
+
+<https://www.uwb.edu/students/bob>
+	school:name "Bob";
+	school:studenttype "Undergraduate";
+	school:enrolled <https://canvas.uw.edu/courses/1588619/>;
+
+<https://www.uwb.edu/students/carol>
+	school:name "Carol";
+	school:studenttype "Graduate";
+	school:enrolled <https://canvas.uw.edu/courses/1588620/>;
+
+<https://www.uwb.edu/students/doug>
+	school:name "Doug";
+	school:studenttype "Graduate";
+	school:enrolled <https://canvas.uw.edu/courses/1588620/>;
+
+<https://canvas.uw.edu/courses/1588618/>
+	school:coursename "CSS342";
+
+<https://canvas.uw.edu/courses/1588619/>
+	school:coursename "CSS343";
+	
+<https://canvas.uw.edu/courses/1588620/>
+	school:coursename "CSS576";
+
+
